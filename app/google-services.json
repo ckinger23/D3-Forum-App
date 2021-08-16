@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "472975023509",
+    "firebase_url": "https://saaforumapp.firebaseio.com",
+    "project_id": "saaforumapp",
+    "storage_bucket": "saaforumapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "",
+        "android_client_info": {
+          "package_name": "hu.ait.android.saaforumapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.ait.android.saaforumapp",
+            "certificate_hash": ""
+          }
+        },
+        {
+          "client_id": "472975023509-pcd584pqh2m5ckjhfp8tmopi8uegrp6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472975023509-pcd584pqh2m5ckjhfp8tmopi8uegrp6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

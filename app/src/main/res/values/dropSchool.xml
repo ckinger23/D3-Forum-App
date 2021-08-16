@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="schools">
+        <item>Rhodes Lynx</item>
+        <item>Sewanee Tigers</item>
+        <item>Centre Colonels</item>
+        <item>BSC Panthers</item>
+        <item>Hendrix Warriors</item>
+        <item>Oglethorpe Stormy Petrels</item>
+        <item>Millsaps Majors</item>
+        <item>Berry Vikings</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="positions">
+        <item>Catcher</item>
+        <item>Pitcher</item>
+        <item>Third Base</item>
+        <item>Shortstop</item>
+        <item>Second Base</item>
+        <item>First Base</item>
+        <item>Outfield</item>
+        <item>Closer</item>
+        <item>Left Bench</item>
+    </string-array>
+</resources>

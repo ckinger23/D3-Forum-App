@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/displayFlairFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/teamPic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:scaleX=".65"
+        android:scaleY=".65"
+
+        android:src="@drawable/rhodes" />
+
+
+    <TextView
+        android:id="@+id/userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:text="User: moneyManziel"
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimary"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/userPosition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimary"
+        android:textAlignment="center"
+        android:text="Pitcher" />
+
+
+</LinearLayout>
